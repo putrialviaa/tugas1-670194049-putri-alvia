@@ -1,3 +1,7 @@
 ipk tingkat 1 
 semester 1 : 3.43
 semester 2 : 3.35
+
+ipk tingkat 2 : 
+semester 3 : 3.29
+semester 4 : -
